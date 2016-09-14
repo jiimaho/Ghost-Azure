@@ -3,7 +3,7 @@
 // Documentation can be found at http://support.ghost.org/config/
 
 var path = require('path'),
-    websiteUrl = process.env.websiteUrl,
+    websiteUrl = 'http://www.jimaho.io',
     websiteUrlSSL = process.env.websiteUrlSSL,
     config;
 
