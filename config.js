@@ -3,8 +3,8 @@
 // Documentation can be found at http://support.ghost.org/config/
 
 var path = require('path'),
-    websiteUrl = 'http://www.jimaho.io',
-    websiteUrlSSL = process.env.websiteUrlSSL,
+    websiteUrl = 'http://blog.jimaho.io',
+    websiteUrlSSL = 'https://blog.jimaho.io',
     config;
 
 // Azure Feature
